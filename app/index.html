@@ -9,7 +9,9 @@
     <title>The Jadis Blurton Family Development Center</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
+
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 
         <!-- build:css(.tmp) styles/main.css -->
         <link rel="stylesheet" href="styles/bootstrap.css">
@@ -22,6 +24,54 @@
         <!-- endbuild -->
 </head>
   <body ng-app="FDCsiteNewApp">
+    <div class="header container text-center">
+      <div class="masthead">
+        <a href="#"><img src="images/logo.jpg" alt="Logo"></a>
+          <nav class="navbar navbar-default" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Our Center<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#/aboutus">About Us</a></li>
+                    <li><a href="#/mission">Mission and Values</a></li>
+                  </ul>
+                </li>
+                <li><a href="#/ourteam">Our Team</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#">Psycho-Educational Assessments</a></li>
+                    <li><a href="#">Speech Therapy</a></li>
+                    <li><a href="#">Occupational Therapy</a></li>
+                    <li><a href="#">Autism and Asperger's Assessment</a></li>
+                    <li><a href="#">Cogmed Working Memory</a></li>
+                    <li><a href="#">Classes &amp; Workshops</a></li>
+                    <li><a href="#">Adult and Child Therapy</a></li>
+                    <li><a href="#">E-Therapy</a></li>
+                    <li><a href="#">Dyslexia, Reading, and Writing</a></li>
+                  </ul>
+                </li>
+                <li><a href="#">Articles</a></li>
+                <li><a href="#">Careers</a></li>
+                <li><a href="#">Contact Us</a></li>
+              </ul>
+            </div><!-- /.navbar-collapse -->
+          </nav>
+        </div>
+      </div>
     <!--[if lt IE 7]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
@@ -32,10 +82,10 @@
     <![endif]-->
 
     <!-- Add your site or application content here -->
-    <div class="container" ng-view=""></div>
+    <div class="container ng-scope" ng-view=""></div>
 
     <!-- Site footer -->
-    <div class="modal-footer">
+    <div class="modal-footer container">
       <p>Make enquiries by email to <a href="info@blurton-fdc.com">info@blurton-fdc.com</a> or by phone at (852) 2869-1962</p> 
       <p><a href="https://maps.google.com/maps?q=Jadis+Blurton+Family+Development+Center&hl=en&ll=22.282743,114.132371&spn=0.019855,0.042272&sll=20.96144,127.353516&sspn=40.302106,86.572266&t=h&hq=Jadis+Blurton+Family+Development+Center&z=15">19th Floor, Kennedy Town Centre,
       23 Belcher's Street,
@@ -56,7 +106,6 @@
 
     <script src="bower_components/jquery/jquery.js"></script>
     <script src="bower_components/angular/angular.js"></script>
-
         <!-- build:js scripts/plugins.js -->
         <script src="bower_components/bootstrap-sass/js/bootstrap-affix.js"></script>
         <script src="bower_components/bootstrap-sass/js/bootstrap-alert.js"></script>
@@ -71,11 +120,12 @@
         <script src="bower_components/bootstrap-sass/js/bootstrap-scrollspy.js"></script>
         <script src="bower_components/bootstrap-sass/js/bootstrap-collapse.js"></script>
         <script src="bower_components/bootstrap-sass/js/bootstrap-tab.js"></script>
+        <script src="bower_components/angular-ui-bootstrap-bower/ui-bootstrap-tpls.js"></script>
         <!-- Latest compiled and minified JavaScript -->
-        <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
         <!-- endbuild -->
 
         <!-- build:js({.tmp,app}) scripts/scripts.js -->
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
         <script src="scripts/app.js"></script>
         <script src="scripts/controllers/main.js"></script>
         <!-- endbuild -->

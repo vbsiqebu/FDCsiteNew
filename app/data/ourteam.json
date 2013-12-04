@@ -1,0 +1,324 @@
+var ourTeam = [
+  {
+    "name": "Dr. Jadis Blurton",
+    "title": "Clinical Director",
+    "bio": "Dr. Blurton is the founder and Clinical Director of The Family Development Center (formerly Therapy Associates Hong Kong). She has been practicing psychology for over 30 years and is an expert in educational psychology. She received her Ph.D. in Developmental Psychology from the University of California, Riverside, and is licensed as a Clinical Psychologist in the United States. Prior to coming to Hong Kong in 1996, she taught at the University of California and California State University for several years as well as practicing clinically and directing a children's diagnostic clinic in West Virginia. Jadis has an eclectic and personal approach to therapy, focusing on the specific needs and strengths of individuals, couples, and families. As a therapist, she sees her role as one of guide, supporter, and interpreter, assisting clients to find their own solutions to the problems and emotions that may confront them. She applied this method of therapy to a wide variety of issues; including attentional problems in adults and children, parenting skills, blended families, divorce or couples' counseling, alternative lifestyle preferences, mood disorders, and helping couples, families, and individual adults and children adjust to the stresses of modern life in Hong Kong. When working with children, adolescents, and families, Jadis is also able to call on her personal experiences as the parent of six children in a blended family. Because children both contribute to and grow within the family system, she sees family involvement as an important part of work with children and adolescents. In addition to her Masters and Ph.D. in Psychology, Dr. Blurton holds a Masters degree in Special Education and is an expert in education for the gifted, children with specific learning disabilities, and children with attentional or behavioral disorders. M.A., Ph.D. Life-Span Developmental Psychology, M.A., Special Education, Licensed Clinical Psychologist (U.S.A.), Registered Psychologist (H.K.)"
+  },
+  {
+    "name": "Dr. Kristie Craigen",
+    "title": "Director of Assessments",
+    "bio": "Dr. Kristie Craigen is a psychometric testing specialist with almost 10 years assessment experience in both clinical and organizational contexts. Kristie received her under graduate degree in Psychology from Wollongong University, Australia and began her testing career with executive search and development firms. Kristie returned to clinical studies after the birth of her two children, receiving a M. A. in clinical psychology and a clinical doctorate in psychology (PsyD.) from Alliant International University (California School of Professional Psychology). As an advocate of Cognitive Behavioral interventions, Kristie utilizes this treatment approach in conjunction with Positive Psychology ideologies, encouraging young people to become aware of and develop individual skills and strengths as a means to reach their potential. Over the past 4 years, her clinical focus has been on working with children and adolescents who are experiencing behavioral, emotional or academic difficulties usually in the presence of co-morbid conditions such as substance abuse, familial dysfunction &/or psychological issues. In addition, she helps youth adapt to mainstream school life by acquiring and improving those social skills typically associated with developmental delay. Kristie recently developed a successful psychosocial prevention and intervention program for a well known NGO currently featured in several international schools in Hong Kong."
+  },
+  {
+    "name": "Dr. Amanda Oswalt",
+    "title": "Assistant Director of Assessments",
+    "bio": "Dr. Oswalt has been practicing as a developmental psychologist for 2 years and an early-intervention specialist for over 10 years. Prior to her role as Assistant Director of Assessments, she was a therapist at the New York University Child Study Center and Columbia University. She served as a clinician at Juvenile Hall, the American Foster Care system, The American Red Cross (post 9/11 relief) and in several hospitals including Beth Israel Medical Center and Great Ormond Street Children's Hospital. Before she became a psychologist, she was an early intervention specialist and preschool teacher at The American School for the Deaf and for several preschools, early-intervention and after-school programs. She has published a book as well as numerous articles regarding developmental psychology. Her expertise as a developmental psychologist and her breadth of experience in teaching and providing therapy for children with developmental issues is evident in the quality and accuracy of her assessments.
+
+Dr. Oswalt approaches every therapy session and assessment with each clients' strengths and needs in mind. She strives to make a positive difference in the lives of children and to help them overcome roadblocks and challenges that have surfaced. Amanda believes that parents are the experts when it comes to their child and that her role is to support them and work as a team with caregivers, teachers, and parents in order to understand and bring out the best in each child. She takes a solutions oriented approach and seeks to help clients achieve tangible goals and noticeable changes.
+
+Psy.D. Clinical Psychology, Emphasis in Child and Family Systems, M.Sc. Psychoanalytic Developmental Psychology
+
+Bridging the Gap Between Our World and Theirs: How to Communicate with Your Autistic Child
+
+Specializing in:
+
+ADHD
+Adjustment Disorder
+Anxiety and OCD
+Assessment
+Attachment Disorders
+Autism Spectrum Disorders
+Child Development: Infant, Toddler, Child, Adolescent
+Communicative Disorders
+Early Intervention
+High Dysfunction
+Learning Disabilities
+Schizophrenia
+Pediatric Sleep, Eating, and Toileting Issues
+
+Therapies Utilized:
+
+Applied Behavioral Analysis
+Attachment Therapy
+Cognitive Behavioral Therapy
+Family Systems
+Group Therapy
+Narrative Therapy
+Parent Training
+Play Therapy
+Pschoanalytic
+Psychodynamic"
+  },
+  {
+    "name": "Dr. Alison Cook",
+    "title": "Cogmed Coordinator",
+    "bio": "Dr. Cook qualified from London University and worked as a General Medical Practitioner in the UK before moving to Hong Kong in 2002. Aside from her work as a GP, she has also had work experience in psychiatry and paediatric positions. During her time in the UK, she was appointed as a Community Health Doctor, caring for children with medical needs in mainstream schools. Her expertise in the field also extends to community psychiatry.
+
+In Hong Kong, Alison has had direct experience with the education system and first-hand knowledge of the issues facing children when moving abroad. In addition to her unique perspective on “third culture kids” and the difficulties of the transitional period when moving overseas, Alison also worked on patient education and assisted on medical and academic publications for numerous professional medical journals.
+
+For the past three years, Dr. Cook has been a qualified coach in the Cogmed program and pursuing her interest in helping children and adults with attention disorders. In addition to increasing their working memory and focus, her students (both children and professionals) have had measurable improvement in reading comprehension, mathematical ability, attention span, time management and organizational skills.
+
+MB, BS"
+  },
+  {
+    "name": "Dr. Patricia Kopstein",
+    "title": "E-Therapist",
+    "bio": "Diplomate, Jungian Analysis (Zurich)
+PhD, D.Min Psychology(USA); MA Psychology, Expressive Arts (USA) 
+
+Dr. Kopstein provides eTherapy sessions to match your schedule, in any time zone in the world, from your home, office, or overseas. She specializes in mid-profession and mid-life issues, social anxiety, depression, relocation adjustment difficulties, eating disorders and relationship issues, as well as self-identity and self-esteem problems. Since 2008, Dr. Kopstein has provided expert eTherapy services, following strict confidential and ethical international guidelines.
+
+After completing studies and practicums in psychology, Dr. Kopstein extended her post-graduate and post-doctoral studies in Switzerland, Israel, and the USA, specializing in Jungian analysis, art therapy, mid-profession/mid-life challenges, and Third Culture.  Having worked in the field of psychotherapy since 1978, Patti is experienced and versatile. She has lived in five countries as an adult, and has personally experienced the challenges of cross-cultural (Third Culture) and multi-faith challenges. She has lived and practiced psychotherapy and psychoanalysis in the USA, Israel, New Zealand, Australia, and Hong Kong.
+
+As a psychotherapist, she utilizes a wide range of approaches to meet the needs and goals of each person, including gestalt, art therapy, critical incident debriefing, analytic, and psychodynamic. As a psychoanalyst, Dr. Kopstein offers in-depth, longer-term analysis to discover and explore patterns that influence attitude and behavior, as well as highlight the individual’s strengths and goals. Dr. Kopstein is a member of the Psychological Society of Hong Kong, International Expressive Arts Association, the International Society for Mental Health Online, and the American Psychological Association (APA International)."
+  },
+  {
+    "name": "Dr. Sandra Comer",
+    "title": "Clinical Psychologist",
+    "bio": "Dr. Sandra Comer received her Ph.D. in Psychology from Carleton University in Ottawa , Canada. While completing her studies, Dr. Comer interned for six years in the Ottawa Civic Hospital's outpatient psychiatric clinic. During that period, she worked extensively with groups and individuals in both the eating disorder program and stress management clinic, and received in-depth practical training in cognitive-behavioral therapy.
+
+Since 1997. Dr. Comer has been treating adults as well as adolescents in Hong Kong . She has been an invited speaker on RTHK and made numerous presentations to medical practitioners and parent groups. She has also lectured at various schools in Hong Kong.
+
+Dr. Comer works with a variety of anxiety and mood disorders, and has specific interest and expertise in eating disorders and body image concerns. She uses a collaborative, time-limited approach that aims to empower clients by teaching them skills that are applicable outside the therapy sessions. Dr. Comer integrates the most current strategies and techniques in cognitive therapy in order to develop the most effective individual treatment plan for her clients.
+
+Services Offered:
+
+Assessment, treatment planning, and psychological therapy for eating disorders such as bulimia, anorexia, binge-eating or body-image distortion
+Evaluation and treatment of anxiety or mood disorders in adults and adolescents
+Presentations for parents, teachers or schools on the prevention, identification and treatment of eating disorders or body image distortions
+Intelligence/Aptitude testing
+Individual counseling for adults, adolescents and families"
+  },
+  {
+    "name": "Dr. Bernard Anderson",
+    "title": "Clinical Counselor",
+    "bio": "During his thirty-five year career in Asia, the South Pacific, North America and Europe, Dr. Bernard Anderson has focused on promoting interpersonal communication and the development of practical life skills among diverse populations.
+
+In the past several years, he has developed particular concerns for addressing the needs of individuals and families who are coping with addictions and/or abuse of substances. He is familiar with both 12-step models and harm reduction interventions, and he has a strong commitment to the processes of emotional and behavioral self-regulation. Dr. Anderson completed a Masters in Counseling Psychology at Lewis and Clark College, with an emphasis on mental health and addictions, during which he also completed a one-year internship working at an inpatient treatment center in the United States. Dr. Anderson uses the techniques of Dialectical Behavior Therapy (DBT) and Motivational Interviewing (MI) in parallel with the stages of change model for behavior modification. The goal is to empower clients to make their own decisions for personal growth.
+
+In addition to his Master's in Counseling Psychology, Dr. Anderson is a graduate of Swarthmore Colege in Pennsylvania, USA. He completed further studies at Harvard University, Cambridge University, Stanford University, and the University of London. He holds a Ph.D. in communications with Post-Graduate Certifications in Education and Media, and an additional Masters in Education.
+
+His positions as consultant, teacher-trainer, media researcher, administrator, and university professor have led him to further studies and responsibilities in film journalism, educational policy and curriculum development, addictions treatment, and counseling across the lifespan.
+
+Dr. Anderson draws upon a wide range of therapeutic approaches that he applies in a holistic assessment of client needs. These humanistic orientations emerge from graduate studies that have centered on stages of biopsychosocial development that parallel the moral-cognitive dimensions across cultures. His therapeutic emphasis encourages the conditions for creativity, autonomy, and self-actualization. These qualities are often facilitated by healing through centered spirituality, aesthetic experience, and the decision to forgive in order to let go of pain and resentment.
+
+Dr. Anderson has participated in studies at the Jungian Institute in Zurich, Switzerland, and was formative in the Unesco study on \"learning Needs of Out-of-School Youth in Asia.\" He has worked and lived in the jungles of Papua, New Guinea as well as in the urban environments of Hong Kong, Nanchang, PRC, Boston, Portland, and London. He and his wife of thirty-three years have two grown sons who have continued their interests in education, media, music, nonverbal communication, and sojourning across cultural boundaries.
+
+Dr. Anderson also offers a special emphasis on \"Men's Work\" for addressing self-esteem and self-care issues. Special concerns are for honoring each man's role as father or husband, healing of male survivors of sexual trauma, promoting a better understanding of identity, and exploring the male perspective on culturally-relevant models of healthy relationships."
+  },
+  {
+    "name": "Sarah Konopka",
+    "title": "Speech Therapist",
+    "bio": "Sarah graduated with a B.S. in speech-language pathology, and acquired her M.S. in speech-language pathology from Fontbonne University in the United States. She is a certified member of the American Speech-Language Hearing Association and has been a practicing speech pathologist for over 3 years. Prior to that she worked as speech implementer for a pilot program for implementing speech therapy into the public school system.
+
+As a recipient of the Parsons Blewett fellowship, Sarah gained the majority of her experience providing assessment and therapy services to an inner city population with a diverse learning community. Through participation in the fellowship, she had the opportunity to educate as well as learn from people with autism, down syndrome, hearing impairment, traumatic brain injury, affects from second language acquisition, selective mutism, and auditory processing disorders.
+
+Sarah has experience collaborating with multi-disciplinary teams including the following professionals; psychological examiners, social workers, school counselors, nurses, school administrators, audiologists, itinerant teachers for the hearing impaired, occupational therapists, physical therapists and special educators. She takes interest in promoting public awareness and understanding of communication disorders. This is reflected in her planning and participating in community literacy events, informative and interactive career building for adolescents, and preventative services for educational staff.
+
+Sarah approaches therapy for those with communication disorders with energy, compassion, and an appreciation for how each person's individuality and value contributes to society as a whole. Her experience led her to work with many different people experiencing one or several of the following communication disorders: fluency, articulation, voice, and language. She has additional experience assessing and treating swallowing disorders, cognition, and language for adults in a rehabilitation setting."
+  },
+  {
+    "name": "Paulina Louie",
+    "title": "Speech Therapist",
+    "bio": "Paulina has four years of experience in medical speech pathology working on aphasia, dysphagia, apraxia, dysarthria, and cognitive-linguistic impairments.  She is professionally trained in providing FEES/FEEST assessments for swallowing disorders under Susan E. Langmore, Ph.D., CCC-SLP at the Boston University Medical Center.  Additional experience includes development of behavioral modification programs for dementia patients and working with children and adolescences with language delays and articulation difficulties.  She received her M.A. in speech-language pathology from City University of New York - Lehman College in the United States and is a member of the American Speech-Language and Hearing Association.  Paulina has provided speech-language services to people of various cultural and religious backgrounds and is the proud aunt of three nieces.
+
+ 
+
+Welcome Interview
+
+Paulina, what led you to work in speech therapy?
+
+Like many people, a job I hated.  In my first few years out of college I pursued careers that I believed were my hobbies and interests.  In the end, they all felt empty and I knew I could be better at another job that involved utilizing my strengths as well as my interests.  When I found out about speech pathology, I jumped on it because the career had my name written all over it.  I loved not only the study of speech and language, but also understanding how each individual operates differently and using that to create better outcomes.
+
+ 
+
+What interests you about working with kids?
+
+I felt quite uncomfortable in my own skin starting from about 8 years of age all the way into my teens.  Perhaps it was from this experience that my friends designated me as the “counselor” of their younger brothers, sisters, and cousins while we were growing up.  I found that they would easily open up to me and that it was pretty rewarding to see my influence on young people.  It wasn’t until my close friends and family started having children did I realize that I also enjoyed playing with younger children.  Being goofy or fascinated by how the Fall season brings red and yellow leaves - we just don’t do that often as adults, or at least we don’t have the time to.
+
+ 
+
+If you could travel in a Time Machine would you go back to the past or into the future?
+
+I will always have my past but a peek into the future is priceless.
+
+ 
+
+Sarah: What was your favorite book when you were a child/teen?
+
+Without a doubt, Corduroy.  I love how the girl wanted Corduroy even though her mom pointed out he was missing a button; how it teaches that adults can be wrong sometimes; Corduroy’s determination to find his missing button despite the odds against him; how the girl came back and bought him with her own money; and in the end how they made each other happy.
+
+ 
+
+What is your favorite thing to eat for breakfast? 
+
+Lately it’s been potato chips but if/when I have children that’ll have to change to oatmeal and fruit.
+
+ 
+
+What are you the most thankful for?
+
+Being raised in humble surroundings.  It allows me to appreciate the little things that are so easy to take advantage of when raised in a first world country.  It helped me understand struggle, not just my parents’ but my own and how even if you lose in the end, you really gain something that makes you a more dynamic person."
+  },
+  {
+    "name": "Emma Rhoda",
+    "title": "Counsellor",
+    "bio": " ‘Your mind is your instrument. Learn to be its master and not its slave.’  - Remez Sasson
+
+Qualifications - BSc in Psychology, Masters in Health Psychology and Masters in Counselling.
+
+Experience - 10 years’ experience working in health-based services both in the UK and Hong Kong.
+
+ 
+
+ 
+
+Areas of practice - Extensive experience working with children, teenagers and adults. Particular expertise in learning disabilities, as well as physical health and illness related psychological issues.
+
+Children - Group programmes, including social skills (Social Thinking™) and school readiness (School Wise) (see http://www.mindquestgroup.com/ for more information).
+Teenagers - stress management, anxiety, relationships, anger, challenges at school, social skills.
+Adults - anxiety, low mood, stress, low self-esteem, relationship issues, management of physical illness or disability, women’s health (fertility, pre and post pregnancy), end of life and bereavement.
+Approach to therapy - Use of evidence based psychological therapies including;
+
+Cognitive Behavioural Therapy (CBT)
+Acceptance and Commitment Therapy (ACT)
+Positive Psychology
+Mindfulness
+Philosophy – Awareness raising, problem solving and personal growth.
+
+Whatever issues a person might be facing, Emma creates a comfortable environment and facilitates exploration of these concerns. She supports people in identifying their strengths and effective strategies for living."
+  },
+  {
+    "name": "Sara Dobson",
+    "title": "Occupational Therapist",
+    "bio": "Sara is an occupational therapist specializing in pediatrics. She is licensed by the Hong Kong Occupational Therapy Board and the National Board for Certification in Occupational Therapy (USA).  She graduated, with distinction, from Cleveland State University with a Masters in Occupational Therapy.  Sara's positive outlook and individual-tailored approach enable her to make meaningful practical changes to improve the lives of her clients.  Whilst practicing in the USA she worked with children and infants of varying capabilities and contexts. These contexts have included homecare, schools, clinics and daycare. Her passion for children's development recently led her to complete her certification as an infant massage instructor at the International Loving Touch Foundation (http://lovingtouch.com). Sara maintains an active membership with the American Occupational Therapy Association (www.aota.org) and enjoys keeping abreast of the rapidly evolving methods and research in the field."
+  },
+  {
+    "name": "Claire Forrest",
+    "title": "Psychometrician",
+    "bio": "Claire graduated from Edinburgh University with an MA (Hons) in Psychology. Her undergraduate thesis on speech dysfluency and its effect on decision making was awarded First Class Honours from the University. During her time there, she acted as a mentor for younger students and worked with the Lothian Equal Access Programme for Schools (LEAPS), providing advice for high school students wishing to continue with further education. 
+
+Under the guidance of Dr. Jadis Blurton and Dr. Amanda Oswalt, Claire has been training as a psychometrician for over a year. She has a strong interest in developmental disorders; with particular emphasis on autism, dyslexia and language impairments.  In her previous role as an Applied Behaviour Analysis (ABA) Therapist in Scotland and Canada and before that as a carer at the Lothian Autistic Society, she gained valuable first-hand experience in working with children with autism. 
+
+Claire enjoys working with and getting to know every person she assesses. She has a firm belief in the right for every child to have equal opportunities of success while using their strengths to compensate for their unique developmental difficulties. With this in mind, her calming presence and cheerful demeanor is a boon to every child on assessment day. 
+
+MA (Hons) Psychology"
+  },
+  {
+    "name": "Wendy Kou",
+    "title": "Clinical Director",
+    "bio": "M.A., Marital and Family Therapy (Art Therapy Specialization)
+
+Ms. Kou, in addition to providing general counseling services, specializes in art therapy. She has worked extensively with children, adolescents and adults who suffer from a variety of disorders, among them depression, post-traumatic stress, autism, anxiety, bereavement, marital conflicts, attentional deficits, behavioral or impulse control disorders, and schizophrenia. Ms. Kou graduated from Loyola Marymount University in Los Angeles, and is fluent in English, Cantonese and Mandarin. 
+
+Wendy Kou has lived in Hong Kong, Canada and the United States, and she speaks and writes fluently in Cantonese, Mandarin, and English. Ms. Kou graduated from the University of Calgary in Canada with a degree in Psychology, and furthered her education with a Master's degree in Marital and Family Therapy with a specialization in the art therapy modality from Loyola Marymount University in Los Angeles. 
+
+Ms Kou's education at Loyola Marymount University has given her a strong foundation to integrate her art backgrounds and to use art processes to provide psychotherapeutic services to clients, including children, adolescents, adults and families. The training fully prepared Ms. Kou to become a practicing marital and family therapist skilled at integrating art processes with a family systems orientation. Ms. Kou has worked in psychiatric hospitals with adults, in residential group homes with abused and neglected children, and in an out-patient Asian agency with Chinese immigrants to the United States. She has worked extensively with Children, adolescents and adults who suffer from mood, anxiety, social and behavioral disorders. 
+
+Through her experience, research and dissertation on Art Therapy in parent-child issues with Chinese immigrants, Ms. Kou has come to strongly believe that art therapy is an effective and powerful way to break through defenses toward therapy. Art therapy can be a particularly effective modality to overcome negative attitudes and beliefs toward therapy, because it allows people to express themselves while remaining silent. Particularly with children, art therapy allows the expression of feelings and problems which children may have no words to express and which they have never been able to bring forward to others."
+  },
+  {
+    "name": "Justine Campbell",
+    "title": "Counsellor and Family Life Coach",
+    "bio": "Justine Campbell is a Counsellor, Family Life Coach, and Social Emotional Intelligence Trainer, working with individuals of all ages. Using a variety of techniques including neuro-linguistic programming, cognitive therapy and emotional intelligence training, Justine supports people of all ages to be all that they can be. To download a copy of Expat Living's profile on Justine, click here. 
+
+As a therapist and coach to children (and their families), she focuses on essential life skills such as raising self-esteem, co-operation, confidence building, social interaction and communication with peer groups and adults, motivation and listening skills. Justine also works extensively with adults, with a focus on supporting them to reach their personal and professional objectives.
+
+Areas of expertise include:
+
+Emotion Regulation
+Stress management
+Challenging negative thoughts and beliefs
+Friendships
+Anxiety
+Anger
+School issues
+Family difficulties including parent separation
+Sibling Rivalry
+Justine works with children on any issue that the child or the parent feels they need help with. Having a trustworthy outsider for your child to talk to can be very beneficial especially if the problem is family related.
+
+For adults, Justine focuses on core value analysis and belief systems, work-life balance, stress management, managing transitions and cultivating a positive sense of self-worth.  She is also available to work on positive parenting strategies.
+
+Justine’s practical approach enables people to understand the situation they are in:
+
+Realise they can change the situation in which they are not satisfied
+See that they are the one who is responsible for their own actions
+Increase their confidence to make positive changes in the way they act, think and feel
+Develop essential life skills
+An indirect and additional benefit of coaching is raising an individual's sense of self-worth and confidence.  Solving the areas of life they are unhappy with will make them realise they are capable of making significant changes in other areas of their life.
+
+Justine is a Counsellor, Certified Life Coach, Master NLP Practitioner, MBTI Practitioner, Certified Social & Emotional Intelligence Trainer and Communications Specialist. She has a Masters in Business Administration (MBA) and a Masters in Counselling.
+
+Refer to www.mindquestgroup.com to learn more about the services offered by Justine at the Blurton Family Development Center.
+
+\"Watch your thoughts, for they become your words.  
+Watch your words, for they become actions.  
+Watch your actions, for they become habits.  
+Watch your habits, for they become character.  
+Watch your character, for it becomes your destiny.\"
+- Aristotle
+ 
+
+If you always do what you've always done… you'll always get what you've always got."
+  },
+  {
+    "name": "Cindy Bonacourso LaTour",
+    "title": "Therapist",
+    "bio": "B.A Speech Communications
+M.A Marriage family therapy
+Certified Imago Relationship therapist
+Sex therapist (pending)
+
+Cindy LaTour completed residencies in the States and her Practicum/Internship at Therapy Associates of Hong Kong. She holds a Masters in Marriage Family Therapy, certification in IMAGO Relationship therapy, certified Sex Therapist, a facilitator of PRE and POST marriage counseling and an Associate license in USA. Cindy has worked with adolescents, individuals, and couples using systemic, person centered, solution focused, ACT and cognitive therapy to empower clients to find solutions that can be applied in their personal and professional life. She has handled a wide-spectrum of issues. Marital expertise includes conflict resolution, affairs/infidelity, sexual and intimacy problems, separation and divorce, Co- parenting through separation. With domestic helpers being common in Hong Kong, she has also assisted domestic helpers deal with culture shock, unresolved issues and separation from their families. She is currently working on certification in Emotion Focused Therapy.
+
+Cindy has been in Hong Kong for seven years, married for 12 years and has two children. She is expecting her third child through adoption with the Hong Kong Social Welfare Department.
+
+Services include:
+
+couples, individuals, adolescents
+pre and post marriage assessment
+affairs, sexual/intimacy issues
+separation and divorce/parenting and divorce
+mood disorders
+life transitions
+ 
+
+FURTHER INFORMATION
+
+PREPARE/ENRICH: This tailor-made assessment allows couples to see strengths and growth areas. It is a universal, cultural sensitive tool that has been used by over three million people to improve communication, enrich relationships, manage stress, and address issues such as assertiveness, active listening, family origins, personality traits, sex and affection, and financial management. This assessment consists of at least seven sessions.
+
+IMAGO: Developed by Dr. Harville Hendrix and Helen LaKelly Hunt, IMAGO recognizes that an inherent nature of human beings is a “push towards wholeness”. Wholeness consists of Maslow’s qualities of a self actualized person: spontaneity and creativity, acceptance in life, a need to have solitude and deep intense relationships, a sense of humor, caring and compassion for others, inner directions, and an open and fresh attitude of life. IMAGO allows couples to discover their lost self, understand what made them attractive to their partner and ultimately connect through an effective dialogue gaining control of each person’s unique behaviors.
+
+Acceptance and Commitment Therapy (ACT): The aim of ACT is to maximize human potential for a rich and meaningful life by the following two ways:
+
+Teaching psychological skills to deal with painful thoughts and feelings effectively in such a way that they have much less impact and influence over you (mindful skills)
+Helping clarify what is truly important and meaningful (i.e. your values) and then uses that knowledge to guide, inspire and motivate you to change your life for the better."
+  },
+  {
+    "name": "Regina Lo-Barrington",
+    "title": "Counsellor",
+    "bio": "Regina has worked with adolescents and adults in dealing with issues such as behavioral modification, low self-esteem and relationship issues, anxiety and work related stress. Her many years of experience in the business world (including holding senior positions in various international companies) provide her insight and empathy with business professionals. It also allows her to play a dual role as both a counselor and an executive coach. Her truly international background - Chinese origin, educated in the U.S. and married to a British man with two teenage daughters - gives her a unique understanding of interracial marriages and related cross-cultural issues. Regina is trained in and practices cognitive-behavioural therapy. She is fluent in English and Cantonese."
+  },
+  {
+    "name": "Kathryn Sly",
+    "title": "Counsellor",
+    "bio": "Masters in Counselling
+
+Bachelor in Special Education
+
+Dip Teaching [Special Needs & Sensory Disorders]
+
+Kathryn Sly offers support to individuals in their efforts to create a way through challenging situations.  Kathryn will structure sessions which are supportive and responsive to individual circumstances focusing on promoting autonomy for the client. She has completed courses in Acceptance and Commitment Therapy and Cognitive Behavior Therapy [CBT] for Children and Adolescents and has many other therapeutic strategies in her toolbox. She cofacilitates with the Friends programs as well as the social skills program ‘Secret Agent Society’, both of which are offered in Hong Kong.
+
+Kathryn has worked in settings as diverse as a special school for students with moderate to severe impairments in Far North Queensland, to small group student settings and individuals with a variety of learning, social and emotional challenges over a 20-year career. Children and adolescents form the core of her client base."
+  },
+  {
+    "name": "Henrik Hoeg",
+    "title": "Literacy Specialist",
+    "bio": "Henrik attended the University of Edinburgh, graduating with a MA of Arts (Hons) in Psychology. His dissertation was done in the realm of social psychology and took the form of a discourse analysis of the noted British performer Derren Brown. Since university, his interest has shifted from social psychology towards education and developmental psychology.
+
+These interests led him to work as a tutor in Hong Kong, where he became well versed in phonetic approaches to language acquistion. For over a year he trained ESL learners, mostly using Oxford's Read Write Inc. program, a synthetic phonics approach. He has since acquired Orton-Gillingham training and now provides literacy education using Orton-Gillingham approach and the Barton Reading & Spelling program. These services are targeted at children with developemental dyslexia or late language acquisition. His services are also available to literacy challenged or dyslexic adults. The Orton-Gillingham approach is recommended by the International Dyslexia Association, and more information can be found here.
+
+Henrik enjoys seeing the long term benefits that an investement in literacy brings. Being an avid reader himself he particularly loves seeing children acquire reading skills and subsequently find joy in books for themselves. He mainly reads science fiction, fantasy and philsosophy."
+  }
+]
